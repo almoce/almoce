@@ -1,1 +1,1 @@
-![](https://wakatime.com/share/@b990731e-865a-452a-a9b8-e03002d62127/7023a458-759f-4a2f-b844-07f0ee2ba961.svg)
+![](https://gist.githubusercontent.com/almoce/dc048c7e125759745e808c146906c207/raw/0e4322f5ebb90c01b549931ac1fa8171401b7ac3/artboard.svg)
